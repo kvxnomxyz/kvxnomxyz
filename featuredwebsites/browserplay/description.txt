@@ -1,0 +1,1 @@
+BrowserPlay is a GitHub page that offers multiple Browser games in a single website.
